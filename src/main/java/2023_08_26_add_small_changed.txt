@@ -4,8 +4,5 @@
 /********* ADD second new changed *********/
 /********* ADD third new changed *********/
 /********* ADD fourth new changed *********/
-<<<<<<< HEAD
-/********* ADD 6th new changed ***********/
-=======
 /********* ADD 5th new changed from another developer *********/
->>>>>>> 74210b23dc53b0c00ebca7d7f4b73aa041a3a6ca
+/********* ADD 6th new changed ***********/
